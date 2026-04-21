@@ -55,16 +55,16 @@ ta就是回避型
 ```bash
 # 安装到当前项目
 mkdir -p .claude/skills
-git clone https://github.com/yourname/yidu-skill .claude/skills/yidu
+git clone https://github.com/Kari-Lee/yidu-skill .claude/skills/yidu
 
 # 或安装到全局
-git clone https://github.com/yourname/yidu-skill ~/.claude/skills/yidu
+git clone https://github.com/Kari-Lee/yidu-skill ~/.claude/skills/yidu
 ```
 
 ### OpenClaw
 
 ```bash
-git clone https://github.com/yourname/yidu-skill ~/.openclaw/workspace/skills/yidu
+git clone https://github.com/Kari-Lee/yidu-skill ~/.openclaw/workspace/skills/yidu
 ```
 
 ---
